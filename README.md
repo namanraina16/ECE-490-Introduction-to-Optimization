@@ -1,2 +1,2 @@
-# ECE 490: SPRING 2023
-Introduction to Optimization (Prof. Veeravalli)
+# ECE 490: Introduction to Optimization
+Spring 2023 (Prof. Veeravalli)
